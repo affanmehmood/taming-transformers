@@ -6,8 +6,8 @@ setup(
     description='Taming Transformers for High-Resolution Image Synthesis',
     packages=find_packages(),
     install_requires=[
-        'torch',
-        'numpy',
+        # 'torch',
+        # 'numpy',
         'tqdm',
     ],
 )
